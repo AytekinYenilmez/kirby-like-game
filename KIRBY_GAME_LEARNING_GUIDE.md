@@ -546,7 +546,7 @@ This Kirby-like game project demonstrates a well-structured approach to 2D game 
 
 The project serves as an excellent learning platform for understanding both game development concepts and modern web development practices. The commented codebase and modular structure make it easy to understand, modify, and expand upon.
 
-### Next Steps for Learning
+### Next Steps for Learning (Both for me and the readers)
 
 1. **Experiment**: Try adding new enemy types or game mechanics
 2. **Optimize**: Implement suggested performance improvements
